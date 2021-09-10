@@ -5,4 +5,4 @@ license:
 MIT
 
 Author:
-Kota Kato (a.k.a kato)
+Kota Kato (a.k.a kat0h)
